@@ -1,0 +1,25 @@
+.container-slider{position: relative; width:60%; margin: auto auto; background: #e2e2e0;}
+
+
+
+.slider-nav div{ text-align: center; display: block}
+
+.slider-for div img,
+.slider-nav div img{width:100%; float:left;}
+
+.slider-for div h3,
+.slider-nav div h4{float:left; width: 100%}
+
+
+.slick-dots{bottom:-50px!important;}
+.slick-dots li button:before{font-size: 17px!important;}
+
+.slick-slider {
+    margin-bottom: 0px!important;
+}
+.slick-prev{left: -30px!important}
+
+.slick-prev:before,
+.slick-next:before{
+   color: #000!important;
+}
